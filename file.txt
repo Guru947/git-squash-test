@@ -5,5 +5,5 @@ change after main became default
 Adding for testing
 for testing without squash
 for testing without using squash command
-
+no I'am not able to see any difference between main and custom checking one more time with squash for confirmation
 
